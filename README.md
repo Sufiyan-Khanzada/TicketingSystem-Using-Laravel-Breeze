@@ -2,7 +2,7 @@
 
 This is a demo project for junior Laravel developers to practice their skills.
 
-The task is fully described [in this article](https://laraveldaily.com/post/demo-project-laravel-support-ticket-system).
+The task is fully described [in this article].
 
 A few screenshots:
 

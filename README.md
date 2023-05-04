@@ -1,14 +1,4 @@
-# Laravel Demo: Support Tickets
 
-This is a demo project for junior Laravel developers to practice their skills.
-
-A few screenshots:
-
-![Screenshot 1](https://laraveldaily.com/uploads/2022/11/laravel-support-tickets-01.png)
-
-![Screenshot 2](https://laraveldaily.com/uploads/2022/11/laravel-support-tickets-02.png)
-
-- - - - -
 
 ## How to use
 

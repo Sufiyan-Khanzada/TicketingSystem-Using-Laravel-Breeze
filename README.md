@@ -2,8 +2,6 @@
 
 This is a demo project for junior Laravel developers to practice their skills.
 
-The task is fully described [in this article].
-
 A few screenshots:
 
 ![Screenshot 1](https://laraveldaily.com/uploads/2022/11/laravel-support-tickets-01.png)
